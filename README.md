@@ -1,4 +1,4 @@
-Certainly! ES6 (ECMAScript 2015) introduced several new features and enhancements to JavaScript. Here's a list of some key topics in ES6:
+# Certainly! ES6 (ECMAScript 2015) introduced several new features and enhancements to JavaScript. Here's a list of some key topics in ES6:
 
 - **let and const:** Block-scoped variable declarations.
 - **Arrow Functions:** Shorter syntax for writing function expressions.
